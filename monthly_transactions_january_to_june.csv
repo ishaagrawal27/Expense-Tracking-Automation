@@ -1,0 +1,91 @@
+Date,Detail,Amount,Currency,Debit/Credit,Status
+2026-01-02,Salary credited,35000,INR,Credit,Completed
+2026-01-03,Rent payment,9000,INR,Debit,Completed
+2026-01-04,Grocery shopping,1850,INR,Debit,Completed
+2026-01-06,Electricity bill,1250,INR,Debit,Completed
+2026-01-08,Mobile recharge,499,INR,Debit,Completed
+2026-01-10,Online course,1200,INR,Debit,Completed
+2026-01-12,Restaurant lunch,650,INR,Debit,Completed
+2026-01-15,Freelance payment,4500,INR,Credit,Completed
+2026-01-17,Cab fare,420,INR,Debit,Completed
+2026-01-19,Shopping,2100,INR,Debit,Completed
+2026-01-22,Internet bill,799,INR,Debit,Completed
+2026-01-24,Medicine,680,INR,Debit,Completed
+2026-01-26,Movie tickets,550,INR,Debit,Completed
+2026-01-28,UPI transfer received,2000,INR,Credit,Completed
+2026-01-30,Food delivery,480,INR,Debit,Completed
+2026-02-01,Salary credited,35000,INR,Credit,Completed
+2026-02-03,Rent payment,9000,INR,Debit,Completed
+2026-02-05,Grocery shopping,2100,INR,Debit,Completed
+2026-02-07,Electricity bill,1180,INR,Debit,Completed
+2026-02-09,Mobile recharge,499,INR,Debit,Completed
+2026-02-11,Gym membership,1000,INR,Debit,Completed
+2026-02-13,Restaurant dinner,850,INR,Debit,Completed
+2026-02-15,Freelance payment,3800,INR,Credit,Completed
+2026-02-17,Auto fare,300,INR,Debit,Completed
+2026-02-19,Clothing purchase,1750,INR,Debit,Completed
+2026-02-21,Internet bill,799,INR,Debit,Completed
+2026-02-23,Pharmacy,520,INR,Debit,Completed
+2026-02-25,OTT subscription,649,INR,Debit,Completed
+2026-02-27,Cashback received,350,INR,Credit,Completed
+2026-02-28,Food delivery,620,INR,Debit,Completed
+2026-03-01,Salary credited,35000,INR,Credit,Completed
+2026-03-03,Rent payment,9000,INR,Debit,Completed
+2026-03-05,Grocery shopping,1950,INR,Debit,Completed
+2026-03-07,Electricity bill,1320,INR,Debit,Completed
+2026-03-09,Mobile recharge,499,INR,Debit,Completed
+2026-03-11,Books purchase,1450,INR,Debit,Completed
+2026-03-13,Cafe and snacks,520,INR,Debit,Completed
+2026-03-15,Freelance payment,5000,INR,Credit,Completed
+2026-03-17,Cab fare,460,INR,Debit,Completed
+2026-03-19,Household items,1250,INR,Debit,Completed
+2026-03-21,Internet bill,799,INR,Debit,Completed
+2026-03-23,Medical checkup,900,INR,Debit,Completed
+2026-03-25,Movie tickets,700,INR,Debit,Completed
+2026-03-27,Refund received,750,INR,Credit,Completed
+2026-03-29,Food delivery,540,INR,Debit,Completed
+2026-04-01,Salary credited,35000,INR,Credit,Completed
+2026-04-03,Rent payment,9000,INR,Debit,Completed
+2026-04-05,Grocery shopping,2250,INR,Debit,Completed
+2026-04-07,Electricity bill,1270,INR,Debit,Completed
+2026-04-09,Mobile recharge,499,INR,Debit,Completed
+2026-04-11,Course subscription,999,INR,Debit,Completed
+2026-04-13,Restaurant lunch,720,INR,Debit,Completed
+2026-04-15,Freelance payment,4200,INR,Credit,Completed
+2026-04-17,Local transport,380,INR,Debit,Completed
+2026-04-19,Shopping,2400,INR,Debit,Completed
+2026-04-21,Internet bill,799,INR,Debit,Completed
+2026-04-23,Medicines,450,INR,Debit,Completed
+2026-04-25,Entertainment,850,INR,Debit,Completed
+2026-04-27,Cashback received,280,INR,Credit,Completed
+2026-04-29,Food delivery,590,INR,Debit,Completed
+2026-05-01,Salary credited,35000,INR,Credit,Completed
+2026-05-03,Rent payment,9000,INR,Debit,Completed
+2026-05-05,Grocery shopping,2050,INR,Debit,Completed
+2026-05-07,Electricity bill,1190,INR,Debit,Completed
+2026-05-09,Mobile recharge,499,INR,Debit,Completed
+2026-05-11,Travel booking,3200,INR,Debit,Completed
+2026-05-13,Restaurant dinner,900,INR,Debit,Completed
+2026-05-15,Freelance payment,4700,INR,Credit,Completed
+2026-05-17,Cab fare,520,INR,Debit,Completed
+2026-05-19,Clothing purchase,1950,INR,Debit,Completed
+2026-05-21,Internet bill,799,INR,Debit,Completed
+2026-05-23,Pharmacy,610,INR,Debit,Completed
+2026-05-25,Streaming subscription,649,INR,Debit,Completed
+2026-05-27,Refund received,600,INR,Credit,Completed
+2026-05-29,Food delivery,560,INR,Debit,Completed
+2026-06-01,Salary credited,35000,INR,Credit,Completed
+2026-06-03,Rent payment,9000,INR,Debit,Completed
+2026-06-05,Grocery shopping,2180,INR,Debit,Completed
+2026-06-07,Electricity bill,1350,INR,Debit,Completed
+2026-06-09,Mobile recharge,499,INR,Debit,Completed
+2026-06-11,Online course,1500,INR,Debit,Completed
+2026-06-13,Restaurant lunch,780,INR,Debit,Completed
+2026-06-15,Freelance payment,5200,INR,Credit,Completed
+2026-06-17,Auto/cab fare,440,INR,Debit,Completed
+2026-06-19,Shopping,2200,INR,Debit,Completed
+2026-06-21,Internet bill,799,INR,Debit,Completed
+2026-06-23,Medicines,570,INR,Debit,Completed
+2026-06-25,Movie and snacks,900,INR,Debit,Completed
+2026-06-27,Cashback received,300,INR,Credit,Completed
+2026-06-29,Food delivery,610,INR,Debit,Completed
