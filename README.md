@@ -25,16 +25,16 @@ The sample dataset contains 90 transactions from January 2026 to June 2026.
 - CSV files
 
 6. How the Script Works
-1. Reads the transaction CSV file.
-2. Checks whether the required columns are available.
-3. Converts the date and amount fields into appropriate formats.
-4. Creates a month from the transaction date.
-5. Separates credit and debit transactions.
-6. Calculates total monthly income.
-7. Calculates total monthly expenses.
-8. Calculates the monthly balance.
-9. Counts the number of transactions.
-10. Saves the results in `monthly_summary.csv`.
+i. Reads the transaction CSV file.
+ii. Checks whether the required columns are available.
+iii. Converts the date and amount fields into appropriate formats.
+iv. Creates a month from the transaction date.
+v. Separates credit and debit transactions.
+vi. Calculates total monthly income.
+vii. Calculates total monthly expenses.
+viii. Calculates the monthly balance.
+ix. Counts the number of transactions.
+x. Saves the results in `monthly_summary.csv`.
 
 7. How to Run
 i) Step 1
