@@ -1,2 +1,74 @@
-# Expense-Tracking-Automation
-This project automates the analysis of monthly financial transactions using Python.  The input transaction data is stored in a CSV file. Instead of manually calculating monthly income, expenses, balance, and transaction counts, the Python script processes the data automatically and generates a monthly summary report.
+1. Expense-Tracking-Automation
+
+2. Project Description
+This project automates the analysis of monthly financial transactions using Python.
+The input transaction data is stored in a CSV file. Instead of manually calculating monthly income, expenses, balance, and transaction counts, the Python script processes the data automatically and generates a monthly summary report.
+
+3. Objective
+The objective of this project is to automate a repetitive financial data analysis task and reduce the time and effort required for manual calculations.
+
+4. Input Data
+The input file is: `monthly_transactions_january_to_june(1).csv`
+The file contains transaction information including:
+- Date
+- Detail
+- Amount
+- Currency
+- Debit/Credit
+- Status
+
+The sample dataset contains 90 transactions from January 2026 to June 2026.
+
+5. Technologies Used
+- Python
+- Pandas
+- CSV files
+
+6. How the Script Works
+1. Reads the transaction CSV file.
+2. Checks whether the required columns are available.
+3. Converts the date and amount fields into appropriate formats.
+4. Creates a month from the transaction date.
+5. Separates credit and debit transactions.
+6. Calculates total monthly income.
+7. Calculates total monthly expenses.
+8. Calculates the monthly balance.
+9. Counts the number of transactions.
+10. Saves the results in `monthly_summary.csv`.
+
+7. How to Run
+i) Step 1
+Install Python on your computer.
+
+ ii)Step 2
+Install Pandas using: `pip install pandas`
+
+iii) Step 3
+Keep the following files in the same folder:
+ - `expense_automation.py`
+- `monthly_transactions_january_to_june(1).csv`
+
+iv) Step 4
+Open Command Prompt or Terminal in the project folder.
+
+v) Step 5
+Run: `python expense_automation.py`
+
+vi) Step 6
+The program will display the monthly summary and create: `monthly_summary.csv`
+
+8. Output
+The generated report contains:
+- Month
+- Total Income
+- Total Expenses
+- Balance
+- Number of Transactions
+
+9. Testing
+The script was tested using a sample dataset containing 90 transactions from January 2026 to June 2026.
+The dataset contains 15 transactions for each month.
+The script successfully processes the transactions and generates a monthly summary automatically.
+
+10. Conclusion
+This project demonstrates how Python can automate a repetitive financial data analysis task. The automation reduces manual calculations and produces a consistent monthly report from the transaction data.
